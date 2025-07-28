@@ -1,0 +1,17 @@
+# Created by https://www.toptal.com/developers/gitignore/api/react
+# Edit at https://www.toptal.com/developers/gitignore?templates=react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+#PERSONALIZADOS archivos ignorados
+shop.html
+wishlist.html
+terms-conditions.html
+/extras
+
+.env
