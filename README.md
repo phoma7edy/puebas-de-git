@@ -1,19 +1,11 @@
 
 # Proyecto Web Site
 
-desarrollo de una web site para una pagina de venta de ropa para la visuaizacion del cliente sin necesidad de registrarse
-
-
-
-APRENDIENDO GIT STASH
-
 ## Autores
 
 - [@pomaEduardo](https://www.github.com/octokatherine)
 
-- [@Simon](https://www.github.com/octokatherine) en ambos
 
-- [@Carlos](https://www.github.com/octokatherine)
 
 
 
@@ -21,9 +13,6 @@ APRENDIENDO GIT STASH
 
 para la instalacion de la pagina  solamente requires descargar o clonar de nuestro repositorio, para tener todo el proyecto.
 Install my-project with npm
-
-agregamos nuevo terto para las pruebas de git merge con CONFLICTOS
-    
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
