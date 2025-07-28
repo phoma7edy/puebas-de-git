@@ -6,6 +6,7 @@
 - [@pomaEduardo](https://www.github.com/octokatherine)
 - [@edyy](https://www.github.com/octokatherine)
 - [@edyy-2](https://www.github.com/octokatherine)
+- [@edyy-3](https://www.github.com/octokatherine)
 
 
 
