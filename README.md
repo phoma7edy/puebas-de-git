@@ -4,6 +4,7 @@
 ## Autores
 
 - [@pomaEduardo](https://www.github.com/octokatherine)
+- [@edyy](https://www.github.com/octokatherine)
 
 
 
